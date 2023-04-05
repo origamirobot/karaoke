@@ -7,15 +7,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Imaging\" />
-  </ItemGroup>
-
-  <ItemGroup>
     <PackageReference Include="System.Drawing.Common" Version="7.0.0" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <ProjectReference Include="..\Karaoke.Core\Karaoke.Core.csproj" />
   </ItemGroup>
 
 </Project>
